@@ -7,9 +7,6 @@ This bot is to regularly detect "attack" in Travian and notify yourself via emai
 After install all depended libraries, you can run the script below to start:
 python3 scan_attack_bot.py
 
-The following video is a demo:
-https://www.youtube.com/watch?v=CfjtYmLSe9A
-
 You can also run it on a cloud VM (Linux) so that it doesn't bother your PC.
 Roughly, the following command may remind you what to install.
 
