@@ -1,5 +1,6 @@
 Reminder:
 Please review the functions "f5()" and "changeTab()" because different OSs or browsers may have different shortcuts
+Please input the information of your smtp server or discord
 
 This bot is to regularly detect "attack" in Travian and notify yourself via email or discord.
 
