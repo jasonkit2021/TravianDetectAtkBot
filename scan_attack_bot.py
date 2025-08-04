@@ -1,5 +1,6 @@
 # Reminder:
 # Please review the functions "f5()" and "changeTab()" because different OSs or browsers may have different shortcut
+# Please input the information of your smtp server or discord
 
 # Wait Time
 INTERVAL_MONITOR_BASE = 2 # in second
